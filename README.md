@@ -32,5 +32,4 @@ Each test case was documented in **Markdown format** and included the following 
 - A complete **set of test cases** covering all possible valid and invalid input scenarios.  
 - Structured documentation that ensures the calculator application works correctly and handles edge cases gracefully.  
 
----
-✨ Internship by **Prodigy InfoTech** | Domain: Software Testing & QA
+Internship by **Prodigy InfoTech** | Domain: Software Testing 
